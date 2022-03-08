@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "id": 556,
+      "brand": "Lancia",
+      "model": "Stratos",
+      "year": "20XX",
+      "colour": "red",
+      "price": "0.000"
+    },
+    {
+      "id": 558,
+      "brand": "Fiat",
+      "model": "Panda",
+      "year": "20XX",
+      "colour": "white",
+      "price": "0.000"
+    },
+    {
+      "id": 600,
+      "brand": "Abarth",
+      "model": "500c",
+      "year": "20XX",
+      "colour": "red",
+      "price": "0.000"
+    }
+  ]
+}
