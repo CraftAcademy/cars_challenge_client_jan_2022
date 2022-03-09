@@ -6,7 +6,9 @@
       "model": "Stratos",
       "year": "20XX",
       "colour": "red",
-      "price": "0.000"
+      "price": 200000.0,
+      "created_at": "2022-03-09 18:20",
+      "updated_at": "2022-03-09 18:25"
     },
     {
       "id": 558,
@@ -14,7 +16,9 @@
       "model": "Panda",
       "year": "20XX",
       "colour": "white",
-      "price": "0.000"
+      "price": 200000.0,
+      "created_at": "2022-03-09 18:20",
+      "updated_at": "2022-03-09 18:25"
     },
     {
       "id": 600,
@@ -22,7 +26,9 @@
       "model": "500c",
       "year": "20XX",
       "colour": "red",
-      "price": "0.000"
+      "price": 200000.0,
+      "created_at": "2022-03-09 18:20",
+      "updated_at": "2022-03-09 18:25"
     }
   ]
 }
